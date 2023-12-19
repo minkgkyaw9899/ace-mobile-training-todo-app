@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import TodoListScreen from "./TodoListScreen";
+import TodoListScreen from "../screens/TodoListScreen";
 
 type RootStackParamList = {
   TodoListScreen: undefined;
